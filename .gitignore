@@ -1,5 +1,6 @@
 # Compiled class file
-*.Package
+*.classpath
+*.project
 *.class
 
 # Package Files
